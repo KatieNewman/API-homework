@@ -1,5 +1,6 @@
 # API-homework
-Katie's API homework
+
+Using OpenWeatherMapAPI, data for at least 500 cities was pulled and analyzed to show how weather changes for four measures: Temperature, Humidity, Cloudiness, and Wind Speed.
 
 Analysis
 
