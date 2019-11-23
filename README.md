@@ -1,9 +1,8 @@
 # API-homework
 
-Using OpenWeatherMapAPI, data for at least 500 cities was pulled and analyzed to show how weather changes for four measures: Temperature, Humidity, Cloudiness, and Wind Speed.
+Using OpenWeatherMapAPI, data for more than 500 cities was pulled and analyzed to show how weather changes as you approach Earth's equator. The latitude for each city was compared across four measures: Temperature, Humidity, Cloudiness, and Wind Speed. 
 
-Analysis
-
+Findings:
 There is a relatively strong correlation bewteen latitude and temperature.
 There is little correlation between humidity and latitude.
 There is almost no correlation between cloudiness and latitude.
