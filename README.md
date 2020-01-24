@@ -8,7 +8,7 @@ Using an API key to access information on OpenWeatherMap.org, data for more than
 
 There is a relatively strong correlation bewteen latitude and temperature. Temperatures are higher the closer one is to the Equator (0 degrees Latitude), as shown below.
 
-<img width="475" alt="lattitudeVStemp" src="https://user-images.githubusercontent.com/46386265/73041017-d79a0d00-3e29-11ea-986c-dfd4b2edb49e.PNG">
+<img width="470" alt="lattitudeVStemp" src="https://user-images.githubusercontent.com/46386265/73041017-d79a0d00-3e29-11ea-986c-dfd4b2edb49e.PNG">
 
 
 There is little correlation between humidity and latitude.
