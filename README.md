@@ -16,6 +16,8 @@ There is little correlation between humidity and latitude.
 
 There is almost no correlation between cloudiness and latitude.
 
+<img width="515" alt="latitudeVScloudiness" src="https://user-images.githubusercontent.com/46386265/73041601-1b8e1180-3e2c-11ea-8410-7a09ebc60ba4.PNG">
+
 The correlation between latitude and wind speed is very weak.
 
 Please Note: Although a random sampling of cities across the globe was used, results show a slight bias to cities in the Northern Hemisphere.
