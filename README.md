@@ -2,7 +2,7 @@
 
 <img width="535" alt="openweatherlogo" src="https://user-images.githubusercontent.com/46386265/73041007-c5b86a00-3e29-11ea-9f47-abcb8e28a5d6.PNG">
 
-Using an API key to access information on OpenWeatherMap.org, data for more than 500 cities was pulled and analyzed to show how weather changes as you approach Earth's equator. The latitude for each city was compared across four measures: Temperature, Humidity, Cloudiness, and Wind Speed. 
+Using an API key to access information on OpenWeatherMap.org, data for more than 500 cities was pulled, analyzed visually graphed to show how weather changes as you approach Earth's equator. The latitude for each city was compared across four measures: Temperature, Humidity, Cloudiness, and Wind Speed. 
 
 # Findings
 
